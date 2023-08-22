@@ -3,7 +3,7 @@
 # 公众号appId
 "app_id": "wx1068465bb0af1b1f",
 # 公众号appSecret
-"app_secret": "90f0dc9921c2e6937be23c6218b3dbf0",
+"app_secret": "4be285923eae8689213b0875c911c4bd",
 # 模板消息id
 "template_id": "m_flpz_6gX2ZCpNqjwWph9Qnmsu2tmoiJFpchrCQ4n4",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
@@ -20,8 +20,4 @@
 "birthday2": {"name": "狗子", "birthday": "2001-03-27"},
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2022-11-26",
-# 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "",
-# 金句英文
-"note_en": ""
 }
